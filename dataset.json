@@ -1,11 +1,11 @@
 [
   {
-    "task": "Create a Python function to extract the AWS region from an ARN (Amazon Resource Name)"
+    "task": "Create a Python function to extract the AWS region from an EC2 instance ARN (Amazon Resource Name)"
   },
   {
-    "task": "Write a JSON configuration for an AWS Lambda function that sets up basic environment variables and runtime settings"
+    "task": "Write a JSON configuration that defines IAM policy permissions for read-only S3 bucket access"
   },
   {
-    "task": "Develop a regular expression to validate an AWS EC2 instance ID (format: i-[alphanumeric characters])"
+    "task": "Develop a regular expression to validate an AWS Lambda function name, which must start with a letter, contain only letters, numbers, and hyphens, and be between 1-64 characters long"
   }
 ]
